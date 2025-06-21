@@ -4,7 +4,7 @@
 This project aims to forecast **Global Horizontal Irradiance (GHI)** — a key measure of solar energy potential — across Saudi Arabian cities using both **classical time series models** and **state-of-the-art deep learning techniques**.
 
 We explore:
-- Exploratory data analysis of GHI patterns across time and regions
+- Exploratory data analysis of GHI patterns at the Al Shuaibah 2 site. (It is the planned location of the world’s largest single-site solar power facility - expected to generate over 2.6 GW of clean energy).
 - Baseline forecasting models: **Linear Regression**, **Prophet**, **XGBoost**
 - Advanced forecasting using Transformer-based architectures like **Autoformer**, **Informer**, and **FEDformer** from Hugging Face
 - Model evaluation and comparison using MAE, RMSE, and SMAPE
@@ -19,6 +19,7 @@ Saudi Arabia is undergoing a transformative shift toward **renewable energy**, t
 - **NEOM**
 - **Sudair Solar PV Plant**
 - **Sakaka Solar Power Project**
+- **Al Shuaibah 2**
 
 Accurate forecasting of solar irradiance is essential for:
 - **Grid stability and energy storage planning**
