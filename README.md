@@ -2,13 +2,15 @@
 
 ## 📌 Project Overview
 
-This project focuses on forecasting **Global Horizontal Irradiance (GHI)** — the key input for solar energy generation — using **classical time series models** and **state-of-the-art deep learning techniques** trained on **satellite-derived weather data** from NASA’s POWER dataset.
+This project focuses on forecasting **Global Horizontal Irradiance (GHI)**, a critical factor in solar energy generation, using **classical time series models** and **state-of-the-art deep learning techniques** trained on **satellite-derived weather data** from NASA’s POWER dataset.
 
-I specifically target the coordinates:
+The analysis is centered on the coordinates:
 
 > 📍 **20.7966°N, 39.5785°E**
 
-This is the **future site of the Al Shuaibah 2 Solar Farm**, which is set to become **the largest single-site solar farm in the world** and a cornerstone of Saudi Arabia’s clean energy transition.
+This location corresponds to the **future site of the Al Shuaibah 2 Solar Farm**, set to become **the world’s largest single-site solar installation** and a flagship project in Saudi Arabia’s clean energy initiative.
+
+By building a forecasting model tailored to this site, I aim to showcase practical value to organizations like **Aramco, ACWA Power,** and **Badeel**, aligning the work with the goals of **Saudi Vision 2030** and the Kingdom’s growing investment in renewable energy infrastructure.
 
 ---
 
