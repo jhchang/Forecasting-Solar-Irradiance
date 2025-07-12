@@ -54,5 +54,5 @@ This project contributes by:
 
 ---
 
-> 📎 **Tools & Libraries:** Python, Pandas, Matplotlib, XGBoost, Prophet, Hugging Face Transformers, Autoformer/Informer, PyTorch, Scikit-learn, Streamlit (for optional deployment)
+> 📎 **Tools & Libraries:** Python, Pandas, Matplotlib, XGBoost, PyTorch, Temporal Fusion Transformers, Scikit-learn
 
