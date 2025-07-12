@@ -18,8 +18,9 @@ By building a forecasting model tailored to this site, I aim to showcase practic
 
 - 📥 Collect historical **hourly GHI and meteorological data** from NASA POWER for the Al Shuaibah 2 site
 - 🔍 Analyze seasonal and diurnal solar radiation trends in Saudi Arabia’s western desert climate
-- 🤖 Train machine learning models (e.g., XGBoost, LSTM, Transformers) to **predict future GHI** from Hugging Face
-- 📈 Evaluate model accuracy using RMSE and MAE
+- 🤖 Train machine learning models (e.g., XGBoost, LSTM, Transformers) to **predict future GHI**
+- 📈 Evaluate model accuracy using RMSE, MAE, and quantile loss
+- 📊 Interpret model predictions using quantile plots and attention-based feature importance
 
 ---
 
