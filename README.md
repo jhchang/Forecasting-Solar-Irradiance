@@ -1,5 +1,14 @@
 # ☀️ Forecasting Solar Irradiance at Al Shuaibah 2 using State-of-the-Art Time Series Models
 
+## ⛓️ Links to the notebooks on google colab if you'd like to run the code youself
+
+1. https://colab.research.google.com/drive/1EZk6MZkWwUyFdXx6FxtyWoqUWo1O3-Bp?usp=sharing
+2. https://colab.research.google.com/drive/14pFJJMviA07Ypr_DS29GHLg7BU-q7cZN?usp=sharing
+3. https://colab.research.google.com/drive/1oJG6BwwHlrqPyS4fVqjn_xATDQN8ROKW?usp=sharing
+4. https://colab.research.google.com/drive/1Snx8k0X-HuRdzlZxtqoFqvbI3jqhxXG1?usp=sharing
+5. https://colab.research.google.com/drive/1HfwyIVPn-uA55Ey79_IuVvQuafGEHP8s?usp=sharing
+6. https://colab.research.google.com/drive/1_kIvm6CfvXeWHyGzYVrtKbl9koQeUPzB?usp=sharing
+
 ## 📌 Project Overview
 
 This project focuses on forecasting **Global Horizontal Irradiance (GHI)**, a critical factor in solar energy generation, using **classical time series models** and **state-of-the-art deep learning techniques** trained on **satellite-derived weather data** from NASA’s POWER dataset.
